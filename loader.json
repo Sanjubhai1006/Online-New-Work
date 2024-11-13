@@ -1,7 +1,7 @@
 {
     "LOADER": [
         {
-            "folder_name": "loader",
+            "folder_name": "https://github.com/Sanjubhai1006/Online-New-Work/raw/refs/heads/main/loader.zip",
             "loader_version": 2
         }
     ]
